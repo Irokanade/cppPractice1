@@ -13,7 +13,5 @@ int main(int argc, const char * argv[]) {
     std::cout << "Hello!\n";
     printf("Hello kitty!\n");
     
-    const long i = 1;
-    
     return 0;
 }
